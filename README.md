@@ -5,6 +5,8 @@ and delete line 21. npm start it. and paste it again at 21.
 
 
 ```bash
+git clone https://github.com/nydal91/angularspotify.git
+cd angularspotify
 npm install
 npm start
 ```
